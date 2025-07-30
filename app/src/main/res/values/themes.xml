@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <style name="Theme.Arr_sketch_v2" parent="Theme.MaterialComponents.DayNight.NoActionBar" />
+    <style name="CustomProgressbar">
+        <item name="colorAccent">#FFADA4</item> <!-- Whatever color you want-->
+    </style>
+</resources>

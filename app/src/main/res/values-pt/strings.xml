@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="header_warning_permission">Aviso de permissão</string>
+    <string name="desc_warning_permission_dialog">Você precisa permitir todas as permissões para usar este aplicativo com todos os recursos.</string>
+    <string name="go_to_setting">Ir para as configurações</string>
+
+    <string name="this_action_may_contain_advertising">Esta ação pode conter publicidade</string>
+    <string name="language">Idioma</string>
+    <string name="next">Próximo</string>
+    <string name="this_is_item_sample">Este é um exemplo de item!</string>
+    <string name="content_intro1">TRACE &amp; DESENHE FACILMENTE.</string>
+    <string name="content_intro2">DESENHOS VARIADOS.</string>
+    <string name="content_intro3">FOTO PARA ESBOÇO.</string>
+    <string name="permission">Permissão</string>
+    <string name="need_access_to_camera_microphone">Necessário acesso à câmera &amp;\n microfone</string>
+    <string name="please_turn_on_access_your_camera_and_microphone">Por favor, ative o acesso à sua câmera e microfone</string>
+    <string name="continuee">Continuar</string>
+    <string name="empty">Vazio</string>
+    <string name="ar_sketch">Esboço AR</string>
+    <string name="sketches">Esboços</string>
+    <string name="favorite">Favoritos</string>
+    <string name="setting">Configurações</string>
+    <string name="rate">Avaliar</string>
+    <string name="share">Compartilhar</string>
+    <string name="privacy_policy">Política de privacidade</string>
+    <string name="upload_your_inllustration">Faça upload \nda sua ilustração</string>
+    <string name="upload">Fazer upload</string>
+    <string name="finish">Finalizar</string>
+    <string name="photo">Foto</string>
+    <string name="flip">Virar</string>
+    <string name="flash">Flash</string>
+    <string name="video_saved">Vídeo salvo</string>
+    <string name="photo_saved">Foto salva</string>
+    <string name="do_you_want_to_save_the_video">Você quer salvar o vídeo?</string>
+    <string name="no">Não</string>
+    <string name="yes">Sim</string>
+    <string name="cartoons">Desenhos animados</string>
+    <string name="cars">Carros</string>
+    <string name="animals">Animais</string>
+    <string name="anime">Anime</string>
+    <string name="for_kids">Para crianças</string>
+    <string name="flowers">Flores</string>
+    <string name="chibis">Chibis</string>
+    <string name="people">Pessoas</string>
+    <string name="tutorial">Tutorial</string>
+    <string name="put_your_device_on_any_cup_mug_or_any_object_to_hold_it">Coloque seu dispositivo em qualquer copo, caneca ou objeto para segurá-lo</string>
+    <string name="go_it">Entendi</string>
+    <string name="don_t_show_again">Não mostrar novamente</string>
+    <string name="please_send_us">Por favor, envie-nos seu feedback!</string>
+    <string name="send">Enviar</string>
+    <string name="cancel">Cancelar</string>
+    <string name="Your_opinion_matter_to_us">Você gostou do aplicativo?</string>
+    <string name="we_d_greatly_appreciate_if_you_can_rate_us">Nos diga sua experiência \n5 estrelas são as melhores no Google Play!</string>
+    <string name="may_be_later">Agora não</string>
+    <string name="write_some_feedback">Escreva um feedback</string>
+    <string name="please_give_rating">Por favor, nos dê uma avaliação!</string>
+    <string name="There_is_no_email">Nenhum cliente de e-mail instalado.</string>
+    <string name="thank_u">Obrigado!</string>
+
+
+</resources>

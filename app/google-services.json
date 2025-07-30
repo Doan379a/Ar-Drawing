@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "912904222946",
+    "project_id": "draw-anime-c2434",
+    "storage_bucket": "draw-anime-c2434.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:912904222946:android:6d9d21c978b159ee2d06bb",
+        "android_client_info": {
+          "package_name": "com.ardrawing.sketch.anime.drawing"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBu3JBcFvPd9_3sakxl6kbzvxGKuL2YVUU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

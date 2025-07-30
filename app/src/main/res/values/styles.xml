@@ -1,0 +1,23 @@
+<resources>
+
+    <style name="Theme.Arr_sketch_fullscreen" parent="Theme.AppCompat.NoActionBar">
+        <item name="android:windowFullscreen">true</item>
+<!--        <item name="colorPrimary">#FFFFFF</item>-->
+<!--        <item name="colorPrimaryDark">#00FAFAFB</item>-->
+<!--        <item name="colorAccent">#FFBB86FC</item>-->
+    </style>
+
+    <style name="Theme.Arr_sketch_NO_fullscreen" parent="Theme.AppCompat.NoActionBar">
+        <item name="android:windowFullscreen">false</item>
+    </style>
+
+    <style name="BaseDialog" parent="Theme.AppCompat.Light.Dialog.Alert">
+        <item name="android:windowBackground">@android:color/transparent</item>
+    </style>
+
+    <style name="RatingBar" parent="Theme.AppCompat">
+        <item name="colorControlNormal">#5A5A5A</item>
+        <item name="colorControlActivated">#F8F262</item>
+    </style>
+    <style name="AppTheme.NoActionBar" parent="Theme.AppCompat.Light.NoActionBar" />
+</resources>

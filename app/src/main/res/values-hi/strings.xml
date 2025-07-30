@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="header_warning_permission">अनुमति चेतावनी</string>
+    <string name="desc_warning_permission_dialog">इस ऐप को पूरी तरह से उपयोग करने के लिए आपको सभी अनुमति देना आवश्यक है।</string>
+    <string name="go_to_setting">सेटिंग्स पर जाएं</string>
+
+    <string name="this_action_may_contain_advertising">यह क्रिया विज्ञापन शामिल कर सकती है</string>
+    <string name="language">भाषा</string>
+    <string name="next">अगला</string>
+    <string name="this_is_item_sample">यह एक आइटम का उदाहरण है!</string>
+    <string name="content_intro1">आसानी से ट्रेस करें और बनाएं।</string>
+    <string name="content_intro2">विविध ड्राइंग।</string>
+    <string name="content_intro3">फोटो से स्केच।</string>
+    <string name="permission">अनुमति</string>
+    <string name="need_access_to_camera_microphone">कैमरा और माइक्रोफोन तक पहुँच की आवश्यकता है</string>
+    <string name="please_turn_on_access_your_camera_and_microphone">कृपया अपने कैमरा और माइक्रोफोन का एक्सेस चालू करें</string>
+    <string name="continuee">जारी रखें</string>
+    <string name="empty">खाली</string>
+    <string name="ar_sketch">AR स्केच</string>
+    <string name="sketches">स्केच</string>
+    <string name="favorite">पसंदीदा</string>
+    <string name="setting">सेटिंग</string>
+    <string name="rate">रेट करें</string>
+    <string name="share">साझा करें</string>
+    <string name="privacy_policy">गोपनीयता नीति</string>
+    <string name="upload_your_inllustration">अपनी इलस्ट्रेशन\n अपलोड करें</string>
+    <string name="upload">अपलोड करें</string>
+    <string name="finish">समाप्त करें</string>
+    <string name="photo">फोटो</string>
+    <string name="flip">फ्लिप करें</string>
+    <string name="flash">फ्लैश</string>
+    <string name="video_saved">वीडियो सहेजा गया</string>
+    <string name="photo_saved">फोटो सहेजी गई</string>
+    <string name="do_you_want_to_save_the_video">क्या आप वीडियो को सहेजना चाहते हैं?</string>
+    <string name="no">नहीं</string>
+    <string name="yes">हाँ</string>
+    <string name="cartoons">कार्टून</string>
+    <string name="cars">गाड़ियाँ</string>
+    <string name="animals">पशु</string>
+    <string name="anime">एनीमे</string>
+    <string name="for_kids">बच्चों के लिए</string>
+    <string name="flowers">फूल</string>
+    <string name="chibis">चिबिस</string>
+    <string name="people">लोग</string>
+    <string name="tutorial">ट्यूटोरियल</string>
+    <string name="put_your_device_on_any_cup_mug_or_any_object_to_hold_it">अपने डिवाइस को किसी कप, मग या किसी भी वस्तु पर रखें ताकि वह पकड़ सके</string>
+    <string name="go_it">समझ गए</string>
+    <string name="don_t_show_again">फिर से न दिखाएं</string>
+    <string name="please_send_us">कृपया हमें अपनी प्रतिक्रिया भेजें!</string>
+    <string name="send">भेजें</string>
+    <string name="cancel">रद्द करें</string>
+    <string name="Your_opinion_matter_to_us">क्या आपको ऐप पसंद आया?</string>
+    <string name="we_d_greatly_appreciate_if_you_can_rate_us">कृपया हमें अपनी अनुभव बताएं \nGoogle Play पर 5 सितारे सबसे अच्छे हैं!</string>
+    <string name="may_be_later">अब नहीं</string>
+    <string name="write_some_feedback">कुछ प्रतिक्रिया लिखें</string>
+    <string name="please_give_rating">कृपया हमें एक रेटिंग दें!</string>
+    <string name="There_is_no_email">कोई ईमेल क्लाइंट स्थापित नहीं है।</string>
+    <string name="thank_u">धन्यवाद!</string>
+
+
+</resources>

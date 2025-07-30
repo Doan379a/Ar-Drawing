@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="header_warning_permission">권한 경고</string>
+    <string name="desc_warning_permission_dialog">이 앱을 모든 기능으로 사용하려면 모든 권한을 허용해야 합니다.</string>
+    <string name="go_to_setting">설정으로 가기</string>
+
+    <string name="this_action_may_contain_advertising">이 작업에는 광고가 포함될 수 있습니다.</string>
+    <string name="language">언어</string>
+    <string name="next">다음</string>
+    <string name="this_is_item_sample">이것은 항목 샘플입니다!</string>
+    <string name="content_intro1">쉽게 추적하고 그리세요.</string>
+    <string name="content_intro2">다양한 드로잉.</string>
+    <string name="content_intro3">사진을 스케치로.</string>
+    <string name="permission">권한</string>
+    <string name="need_access_to_camera_microphone">카메라 &amp;\n마이크 접근이 필요합니다</string>
+    <string name="please_turn_on_access_your_camera_and_microphone">카메라와 마이크 접근을 활성화해주세요</string>
+    <string name="continuee">계속</string>
+    <string name="empty">비어 있음</string>
+    <string name="ar_sketch">AR 스케치</string>
+    <string name="sketches">스케치</string>
+    <string name="favorite">즐겨찾기</string>
+    <string name="setting">설정</string>
+    <string name="rate">평가</string>
+    <string name="share">공유</string>
+    <string name="privacy_policy">개인정보 처리방침</string>
+    <string name="upload_your_inllustration">일러스트 업로드</string>
+    <string name="upload">업로드</string>
+    <string name="finish">완료</string>
+    <string name="photo">사진</string>
+    <string name="flip">뒤집기</string>
+    <string name="flash">플래시</string>
+    <string name="video_saved">비디오가 저장되었습니다</string>
+    <string name="photo_saved">사진이 저장되었습니다</string>
+    <string name="do_you_want_to_save_the_video">비디오를 저장하시겠습니까?</string>
+    <string name="no">아니요</string>
+    <string name="yes">예</string>
+    <string name="cartoons">만화</string>
+    <string name="cars">자동차</string>
+    <string name="animals">동물</string>
+    <string name="anime">애니메이션</string>
+    <string name="for_kids">어린이용</string>
+    <string name="flowers">꽃</string>
+    <string name="chibis">치비</string>
+    <string name="people">사람들</string>
+    <string name="tutorial">튜토리얼</string>
+    <string name="put_your_device_on_any_cup_mug_or_any_object_to_hold_it">기기를 컵, 머그컵 또는 다른 물건 위에 올려두세요</string>
+    <string name="go_it">알겠습니다</string>
+    <string name="don_t_show_again">다시 표시하지 않기</string>
+    <string name="please_send_us">피드백을 보내주세요!</string>
+    <string name="send">보내기</string>
+    <string name="cancel">취소</string>
+    <string name="Your_opinion_matter_to_us">앱이 마음에 드셨나요?</string>
+    <string name="we_d_greatly_appreciate_if_you_can_rate_us">경험을 알려주세요 \n구글 플레이에서 5스타는 최고입니다!</string>
+    <string name="may_be_later">지금은 아니요</string>
+    <string name="write_some_feedback">피드백을 작성하세요</string>
+    <string name="please_give_rating">평가를 주세요!</string>
+    <string name="There_is_no_email">이메일 클라이언트가 설치되어 있지 않습니다.</string>
+    <string name="thank_u">감사합니다!</string>
+
+</resources>

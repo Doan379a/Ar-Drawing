@@ -1,0 +1,60 @@
+<resources>
+    <string name="app_name" translatable="false">AR Drawing</string>
+    <string name="header_warning_permission">Warning permission</string>
+    <string name="desc_warning_permission_dialog">You must allow all Permission to use this app with full feature.</string>
+    <string name="go_to_setting">Go to setting</string>
+    <string name="ar_drawing_sketch_paint" translatable="false">Draw Anime\nAR Drawing Sketch</string>
+    <string name="this_action_may_contain_advertising">This action may contain advertising</string>
+    <string name="language">Language</string>
+    <string name="next">Next</string>
+    <string name="this_is_item_sample">This is item sample!</string>
+    <string name="content_intro1">TRACE &amp; DRAW EASY.</string>
+    <string name="content_intro2">VARIOUS DRAWING.</string>
+    <string name="content_intro3">PHOTO TO SKETCH.</string>
+    <string name="permission">Permission</string>
+    <string name="need_access_to_camera_microphone">Need Access to camera &amp;\n microphone</string>
+    <string name="please_turn_on_access_your_camera_and_microphone">Please turn on access your camera and\n microphone</string>
+    <string name="continuee">Continue</string>
+    <string name="empty">Empty</string>
+    <string name="sketches">Sketches</string>
+    <string name="favorite">Favorite</string>
+    <string name="setting">Setting</string>
+    <string name="rate">Rate</string>
+    <string name="share">Share</string>
+    <string name="privacy_policy">Privacy policy</string>
+    <string name="upload_your_inllustration">Upload your \ninllustration</string>
+    <string name="upload">Upload</string>
+    <string name="finish">Finish</string>
+    <string name="photo">Photo</string>
+    <string name="flip">Flip</string>
+    <string name="flash">Flash</string>
+    <string name="video_saved">Video saved</string>
+    <string name="photo_saved">Photo saved</string>
+    <string name="do_you_want_to_save_the_video">Do you want to save the video?</string>
+    <string name="no">No</string>
+    <string name="yes">Yes</string>
+    <string name="cartoons">Cartoon</string>
+    <string name="cars">Cars</string>
+    <string name="animals">Animals</string>
+    <string name="anime">Anime</string>
+    <string name="for_kids">For kids</string>
+    <string name="flowers">Flowers</string>
+    <string name="chibis">Chibis</string>
+    <string name="people">People</string>
+    <string name="tutorial">Tutorial</string>
+    <string name="put_your_device_on_any_cup_mug_or_any_object_to_hold_it">Put your device on any cup, mug or any object to hold it</string>
+    <string name="go_it">Go it</string>
+    <string name="don_t_show_again">Don’t show again</string>
+    <string name="please_send_us">Please send us some feedback!</string>
+    <string name="send">Send</string>
+    <string name="cancel">Cancel</string>
+    <string name="Your_opinion_matter_to_us">Do you like the app?</string>
+    <string name="we_d_greatly_appreciate_if_you_can_rate_us">Let us know your experience \n5 stars is the best on Google Play!</string>
+    <string name="may_be_later">Not now</string>
+    <string name="write_some_feedback">Write some feedback</string>
+    <string name="please_give_rating">please give me a rating!</string>
+    <string name="There_is_no_email">There is no email client installed.</string>
+    <string name="thank_u">Thank you!</string>
+
+
+</resources>

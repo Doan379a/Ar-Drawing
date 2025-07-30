@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="header_warning_permission">Peringatan izin</string>
+    <string name="desc_warning_permission_dialog">Anda harus memberikan izin untuk menggunakan aplikasi ini dengan semua fitur lengkap.</string>
+    <string name="go_to_setting">Pergi ke pengaturan</string>
+
+    <string name="this_action_may_contain_advertising">Tindakan ini mungkin mengandung iklan</string>
+    <string name="language">Bahasa</string>
+    <string name="next">Selanjutnya</string>
+    <string name="this_is_item_sample">Ini adalah contoh item!</string>
+    <string name="content_intro1">GAMBAR &amp; GAMBARKAN DENGAN MUDAH.</string>
+    <string name="content_intro2">BERBAGAI GAMBARNYA.</string>
+    <string name="content_intro3">FOTO MENJADI SKETSA.</string>
+    <string name="permission">Izin</string>
+    <string name="need_access_to_camera_microphone">Perlu akses ke kamera &amp;\n mikrofon</string>
+    <string name="please_turn_on_access_your_camera_and_microphone">Harap aktifkan akses ke kamera dan mikrofon Anda</string>
+    <string name="continuee">Lanjutkan</string>
+    <string name="empty">Kosong</string>
+    <string name="ar_sketch">Sketsa AR</string>
+    <string name="sketches">Sketsa</string>
+    <string name="favorite">Favorit</string>
+    <string name="setting">Pengaturan</string>
+    <string name="rate">Beri Nilai</string>
+    <string name="share">Bagikan</string>
+    <string name="privacy_policy">Kebijakan Privasi</string>
+    <string name="upload_your_inllustration">Unggah \nilustrasi Anda</string>
+    <string name="upload">Unggah</string>
+    <string name="finish">Selesai</string>
+    <string name="photo">Foto</string>
+    <string name="flip">Balik</string>
+    <string name="flash">Lampu kilat</string>
+    <string name="video_saved">Video disimpan</string>
+    <string name="photo_saved">Foto disimpan</string>
+    <string name="do_you_want_to_save_the_video">Apakah Anda ingin menyimpan video ini?</string>
+    <string name="no">Tidak</string>
+    <string name="yes">Ya</string>
+    <string name="cartoons">Kartun</string>
+    <string name="cars">Mobil</string>
+    <string name="animals">Hewan</string>
+    <string name="anime">Anime</string>
+    <string name="for_kids">Untuk anak-anak</string>
+    <string name="flowers">Bunga</string>
+    <string name="chibis">Chibis</string>
+    <string name="people">Orang-orang</string>
+    <string name="tutorial">Tutorial</string>
+    <string name="put_your_device_on_any_cup_mug_or_any_object_to_hold_it">Letakkan perangkat Anda di atas cangkir, mug, atau objek lain untuk menahannya</string>
+    <string name="go_it">Mengerti</string>
+    <string name="don_t_show_again">Jangan tampilkan lagi</string>
+    <string name="please_send_us">Silakan kirimkan umpan balik Anda kepada kami!</string>
+    <string name="send">Kirim</string>
+    <string name="cancel">Batal</string>
+    <string name="Your_opinion_matter_to_us">Apakah Anda suka aplikasi ini?</string>
+    <string name="we_d_greatly_appreciate_if_you_can_rate_us">Beritahukan kami pengalaman Anda \n5 bintang adalah yang terbaik di Google Play!</string>
+    <string name="may_be_later">Nanti</string>
+    <string name="write_some_feedback">Tulis umpan balik</string>
+    <string name="please_give_rating">Tolong beri kami rating!</string>
+    <string name="There_is_no_email">Tidak ada aplikasi email yang terpasang.</string>
+    <string name="thank_u">Terima kasih!</string>
+
+
+</resources>

@@ -1,0 +1,99 @@
+<?xml version="1.0" encoding="utf-8"?>
+<defaultsMap>
+    <entry>
+        <key>appopen_resume</key>
+        <value>true</value>
+    </entry>
+    <entry>
+        <key>inter_splash</key>
+        <value>true</value>
+    </entry>
+    <entry>
+        <key>native_language</key>
+        <value>true</value>
+    </entry>
+
+    <entry>
+        <key>native_intro</key>
+        <value>true</value>
+    </entry>
+
+    <entry>
+        <key>inter_intro</key>
+        <value>true</value>
+    </entry>
+
+    <entry>
+        <key>interval_between_interstitial</key>
+        <value>20</value>
+    </entry>
+
+    <entry>
+        <key>ads_visibility</key>
+        <value>true</value>
+    </entry>
+
+    <entry>
+        <key>banner_home</key>
+        <value>true</value>
+    </entry>
+
+    <entry>
+        <key>native_colorize_guide</key>
+        <value>true</value>
+    </entry>
+
+    <entry>
+        <key>native_select_feature</key>
+        <value>true</value>
+    </entry>
+
+    <entry>
+        <key>banner_success</key>
+        <value>true</value>
+    </entry>
+
+    <entry>
+        <key>banner_save</key>
+        <value>true</value>
+    </entry>
+
+    <entry>
+        <key>rewarded_save</key>
+        <value>true</value>
+    </entry>
+
+    <entry>
+        <key>native_saved_photo</key>
+        <value>true</value>
+    </entry>
+
+    <entry>
+        <key>native_setting</key>
+        <value>true</value>
+    </entry>
+    <entry>
+        <key>rewarded_credit</key>
+        <value>true</value>
+    </entry>
+
+    <entry>
+        <key>credit_day</key>
+        <value>68</value>
+    </entry>
+
+    <entry>
+        <key>credit_enhance</key>
+        <value>46</value>
+    </entry>
+
+    <entry>
+        <key>credit_colorize</key>
+        <value>23</value>
+    </entry>
+
+    <entry>
+        <key>credit_bg</key>
+        <value>23</value>
+    </entry>
+</defaultsMap>

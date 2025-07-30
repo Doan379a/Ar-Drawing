@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="header_warning_permission">Cảnh báo quyền</string>
+    <string name="desc_warning_permission_dialog">Bạn phải cho phép tất cả quyền để sử dụng ứng dụng này với đầy đủ tính năng.</string>
+    <string name="go_to_setting">Đi đến cài đặt</string>
+
+    <string name="this_action_may_contain_advertising">Hành động này có thể chứa quảng cáo</string>
+    <string name="language">Ngôn ngữ</string>
+    <string name="next">Tiếp theo</string>
+    <string name="this_is_item_sample">Đây là mẫu vật phẩm!</string>
+    <string name="content_intro1">DÒ THEO &amp; VẼ DỄ DÀNG.</string>
+    <string name="content_intro2">VẼ NHIỀU LOẠI.</string>
+    <string name="content_intro3">CHUYỂN ẢNH THÀNH PHÁC THẢO.</string>
+    <string name="permission">Quyền</string>
+    <string name="need_access_to_camera_microphone">Cần quyền truy cập vào máy ảnh &amp;\n microphone</string>
+    <string name="please_turn_on_access_your_camera_and_microphone">Vui lòng bật quyền truy cập máy ảnh và microphone của bạn</string>
+    <string name="continuee">Tiếp tục</string>
+    <string name="empty">Trống</string>
+    <string name="ar_sketch">Phác thảo AR</string>
+    <string name="sketches">Phác thảo</string>
+    <string name="favorite">Yêu thích</string>
+    <string name="setting">Cài đặt</string>
+    <string name="rate">Đánh giá</string>
+    <string name="share">Chia sẻ</string>
+    <string name="privacy_policy">Chính sách bảo mật</string>
+    <string name="upload_your_inllustration">Tải lên \nảnh của bạn</string>
+    <string name="upload">Tải lên</string>
+    <string name="finish">Hoàn tất</string>
+    <string name="photo">Ảnh</string>
+    <string name="flip">Lật</string>
+    <string name="flash">Đèn</string>
+    <string name="video_saved">Video đã được lưu</string>
+    <string name="photo_saved">Ảnh đã được lưu</string>
+    <string name="do_you_want_to_save_the_video">Bạn có muốn lưu video không?</string>
+    <string name="no">Không</string>
+    <string name="yes">Có</string>
+    <string name="cartoons">Hoạt hình</string>
+    <string name="cars">Xe cộ</string>
+    <string name="animals">Động vật</string>
+    <string name="anime">Anime</string>
+    <string name="for_kids">Dành cho trẻ em</string>
+    <string name="flowers">Hoa</string>
+    <string name="chibis">Chibis</string>
+    <string name="people">Con người</string>
+    <string name="tutorial">Hướng dẫn</string>
+    <string name="put_your_device_on_any_cup_mug_or_any_object_to_hold_it">Đặt thiết bị của bạn lên bất kỳ cốc, ly hoặc vật dụng nào để giữ nó</string>
+    <string name="go_it">Hiểu rồi</string>
+    <string name="don_t_show_again">Đừng hiển thị lại</string>
+    <string name="please_send_us">Vui lòng gửi cho chúng tôi phản hồi của bạn!</string>
+    <string name="send">Gửi</string>
+    <string name="cancel">Hủy</string>
+    <string name="Your_opinion_matter_to_us">Bạn có thích ứng dụng này không?</string>
+    <string name="we_d_greatly_appreciate_if_you_can_rate_us">Hãy cho chúng tôi biết trải nghiệm của bạn \n5 sao là tốt nhất trên Google Play!</string>
+    <string name="may_be_later">Không phải bây giờ</string>
+    <string name="write_some_feedback">Viết phản hồi</string>
+    <string name="please_give_rating">Vui lòng cho chúng tôi một đánh giá!</string>
+    <string name="There_is_no_email">Không có ứng dụng email được cài đặt.</string>
+    <string name="thank_u">Cảm ơn bạn!</string>
+
+
+</resources>
